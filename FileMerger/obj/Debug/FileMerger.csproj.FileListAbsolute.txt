@@ -1,0 +1,6 @@
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\obj\Debug\FileMerger.csprojAssemblyReference.cache
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Users\nruiz\source\repos\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
